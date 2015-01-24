@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appliam.bodyshush" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appliam.rockpop" version="1.0.0">
   <name>RockPop Shop</name>
   <description>For all your PopRock Needs </description>
   <author href="http://www.appliam.com" email="support@appliam.com">Appliam</author>
